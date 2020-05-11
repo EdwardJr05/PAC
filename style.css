@@ -1,0 +1,32 @@
+body {
+  color: red;
+  font-size: 38px;
+}
+
+.Artist {
+  background-color: #1ba90f;
+  color: #000;
+  font-size: 30px;
+}
+
+.Movies {
+  background-color: #c60f2a;
+  color: grey;
+  font-size: 30px;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+a:link {
+  color: #1ba90f;
+  font-size: 30px;
+}
+
+a:hover {
+  color: #c60f2a;
+  font-weight: bold;
+}
+
+a:visited{
+  color: red;
+}
